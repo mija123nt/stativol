@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inicio.md",
+                "file": "Knowledges/Figma Desing/diseño UI/Que es el diseño de interfaz de usuario.md",
                 "mode": "source",
                 "source": false
               }
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inicio.md",
+                "file": "Knowledges/Figma Desing/diseño UI/Que es el diseño de interfaz de usuario.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Inicio.md",
+                "file": "Knowledges/Figma Desing/diseño UI/Que es el diseño de interfaz de usuario.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inicio.md"
+                "file": "Knowledges/Figma Desing/diseño UI/Que es el diseño de interfaz de usuario.md"
               }
             }
           }
@@ -160,9 +160,18 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "b552c1442ea049ea",
+  "active": "e85c2be85c7ef0d8",
   "lastOpenFiles": [
-    "Sin título",
-    "Inicio.md"
+    "Knowledges/Figma Desing/Conceptos de diseño/Investigacion del diseño.md",
+    "Knowledges/Figma Desing/diseño UI/Que es el diseño de interfaz de usuario.md",
+    "Knowledges/Figma Desing/diseño UI",
+    "Knowledges/Figma Desing/Conceptos de diseño",
+    "Knowledges/Figma Desing/Conceptos de diseño/Etica del diseño.md",
+    "Knowledges/Figma Desing/Conceptos de diseño/Conceptos basicos de diseño.md",
+    "Knowledges/Diseño Atomico.md",
+    "Knowledges/Figma Desing",
+    "Inicio.md",
+    "Knowledges",
+    "Sin título"
   ]
 }
